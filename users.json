@@ -1,0 +1,24 @@
+[
+    {
+        "name": "John Doe",
+        "wallet": 9862.50153585137,
+        "portfolio": {
+            "4pk7wben2u3": 33,
+            "xo3fqar67sr": 50,
+            "heku0v20zbp": 30,
+            "2fgr4y8035c": 68,
+            "7fosz6q68hd": 63,
+            "66dt99e40t": 23
+        }
+    },
+    {
+        "name": "Jane Smith",
+        "wallet": 4891.521044600938,
+        "portfolio": {
+            "z9asouj15x": 5,
+            "vo1p8psx5e8": 61,
+            "k5hwnen5oxk": 33,
+            "3fdnsuiutvd": 39
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "John Doe",
+        "date": "2024-06-12 13:29:07",
+        "type": "buy",
+        "symbol": "xo3fqar67sr",
+        "amount": 50,
+        "price": 0.4556806293188649,
+        "total": 22.784031465943244
+    },
+    {
+        "user": "John Doe",
+        "date": "2024-06-12 13:32:26",
+        "type": "buy",
+        "symbol": "heku0v20zbp",
+        "amount": 30,
+        "price": 0.5162714135551887,
+        "total": 15.48814240665566
+    },
+    {
+        "user": "John Doe",
+        "date": "2024-06-12 13:57:49",
+        "type": "buy",
+        "symbol": "2fgr4y8035c",
+        "amount": 68,
+        "price": 0.8095659188924182,
+        "total": 55.05048248468444
+    },
+    {
+        "user": "John Doe",
+        "date": "2024-06-12 14:02:47",
+        "type": "buy",
+        "symbol": "7fosz6q68hd",
+        "amount": 63,
+        "price": 0.23116915658737214,
+        "total": 14.563656865004445
+    },
+    {
+        "user": "Jane Smith",
+        "date": "2024-06-12 14:06:37",
+        "type": "buy",
+        "symbol": "vo1p8psx5e8",
+        "amount": 61,
+        "price": 0.6834325025968342,
+        "total": 41.689382658406885
+    },
+    {
+        "user": "Jane Smith",
+        "date": "2024-06-12 14:14:32",
+        "type": "buy",
+        "symbol": "k5hwnen5oxk",
+        "amount": 33,
+        "price": 0.9803673171823726,
+        "total": 32.35212146701829
+    },
+    {
+        "user": "Jane Smith",
+        "date": "2024-06-12 14:16:33",
+        "type": "buy",
+        "symbol": "3fdnsuiutvd",
+        "amount": 39,
+        "price": 0.7636666418983351,
+        "total": 29.78299903403507
+    },
+    {
+        "user": "John Doe",
+        "date": "2024-06-12 14:21:38",
+        "type": "buy",
+        "symbol": "66dt99e40t",
+        "amount": 23,
+        "price": 0.9536695974018321,
+        "total": 21.93440074024214
+    }
+]
